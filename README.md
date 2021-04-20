@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KahNunes
 - 👀 I’m interested in technology, books, movies and games
 - 🐲 I'm a martial artist
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning SQL Server
 - 📫 I'm on instagram @KahCarstairs
 
 <!---
